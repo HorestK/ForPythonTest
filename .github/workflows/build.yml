@@ -46,6 +46,7 @@ jobs:
           package.domain = org.pizza
           source.dir = .
           source.include_exts = py,png,jpg,jpeg,kv
+          version = 0.1
           requirements = python3,kivy,kivymd
           orientation = portrait
           fullscreen = 1
